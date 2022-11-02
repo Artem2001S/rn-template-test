@@ -1,0 +1,8 @@
+{
+  "name": "rntemplate",
+  "version": "0.0.1",
+  "description": "React Native Webview Template",
+  "repository": "https://git.snpdev.ru/saltpepper/webview-boilerplate.git",
+  "author": "Artem Kazaryan",
+  "license": "MIT"
+}
